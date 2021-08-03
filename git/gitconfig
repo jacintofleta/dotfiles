@@ -98,8 +98,8 @@
   enabled = true
 
 [user]
-	name = letiescanciano
-	email = leticia.escanciano@gmail.com
+	name = jacintofleta
+	email = jacintofleta@gmail.com
 
 ## Hack needed because Go language get packages in this way:
 ## git clone https://github.com/something/lol
